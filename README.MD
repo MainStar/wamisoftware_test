@@ -1,5 +1,5 @@
 # Опис проекту
-Shape Calculator API — это REST API для расчёта площади и периметра (окружности) геометрических фигур:
+Shape Calculator API — is a REST API to calculate Area of the shapes
 
 # We have only one API endpoint
 ### /shape/{shapeType}/calculate-are
